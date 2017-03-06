@@ -2,7 +2,7 @@
 
 BETL (say: beetle) makes it easy to define Basic ETL jobs for Firefox Telemetry data.
 
-This project in in early alpha.
+This project is in early alpha.
 
 For many jobs, we only want to do the following:
 * **filter** to a subset of telemetry pings
